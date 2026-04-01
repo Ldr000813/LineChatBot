@@ -1,0 +1,2 @@
+チャネルアクセストークン:Tjwf8UOYFpnAGleTHtOjZPYzw/b6/KhdaeOzKU4sAfwAzR08ufaByv8RQnlRwm9/u/X1sHbIPbYf0l10IgiwAv3Ea+kzjRBujMFZXs7qLJjQo9Rd32G2eySh08YAbRwo4wX9syFWmSF7lTzwC4cLWQdB04t89/1O/w1cDnyilFU=
+チャネルシークレット:5951213a96ea0e6603049f2461750500
